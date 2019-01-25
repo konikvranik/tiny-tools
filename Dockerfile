@@ -1,4 +1,4 @@
-FROM resin/armv7hf-debian-qemu
+FROM resin/qemux86-alpine
 
 RUN [ "cross-build-start" ]
 
